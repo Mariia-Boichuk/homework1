@@ -3,8 +3,7 @@ $primary-white: #ffffff;
 $dark-color: #000;
 
 *,
-*::before,
-*::after {
+*::before {
   box-sizing: border-box;
   font-family: Poppins;
 }
